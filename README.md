@@ -30,9 +30,6 @@ pandas, NumPy, scikit-learn, XGBoost, Git, matplotlib, AMPL, Gurobi
 Worked on data-driven problems involving analysis, modeling, and decision support in a business setting.
 
 ## Contact
-Email: bernebasmehari@gmail.com
-School Email: bbm56@cornell.edu
-
-
+**Email:** bernebasmehari@gmail.com
 **Email:** bbm56@cornell.edu  
 **LinkedIn:** [www.linkedin.com/in/bernebas-mehari-85a87a257]
