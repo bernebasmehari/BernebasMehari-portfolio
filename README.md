@@ -35,4 +35,4 @@ School Email: bbm56@cornell.edu
 
 
 **Email:** bbm56@cornell.edu  
-**LinkedIn:** [Add your LinkedIn here]
+**LinkedIn:** [www.linkedin.com/in/bernebas-mehari-85a87a257]
