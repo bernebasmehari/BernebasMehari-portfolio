@@ -24,11 +24,6 @@ Python, Java, C++, SQL
 **Tools / Libraries**  
 pandas, NumPy, scikit-learn, XGBoost, Git, matplotlib, AMPL, Gurobi
 
-## Experience
-
-**Capital One — Business/Data Analyst**  
-Worked on data-driven problems involving analysis, modeling, and decision support in a business setting.
-
 ## Contact
 **Email:** bernebasmehari@gmail.com
 **Email:** bbm56@cornell.edu  
